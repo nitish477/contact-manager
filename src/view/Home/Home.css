@@ -1,0 +1,26 @@
+
+.heading{
+text-align: center;
+    font-size: 30px;
+}
+.search{
+    display: block;
+    margin: 10px auto;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 50%;
+}
+.contanier{
+    display: flex;
+    justify-content: center;
+}
+.sub{
+    padding: 5px;
+    margin: 10px;
+}
+.contact-holder{
+    padding: 10px;
+    width: 50%;
+}
